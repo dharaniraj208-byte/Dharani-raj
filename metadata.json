@@ -1,0 +1,7 @@
+{
+  "name": "SONORA",
+  "description": "Premium multilingual music streaming experience with high-fidelity audio controls, smart recommendations, visualizer, and regional discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
